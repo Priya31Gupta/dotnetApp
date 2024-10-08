@@ -1,0 +1,14 @@
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\dotnetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\dotnetApp.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\dotnetApp.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\dotnetApp.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\dotnetApp\bin\Debug\net8.0\dotnetApp.exe
+C:\Users\priya\OneDrive\Desktop\dotnetApp\bin\Debug\net8.0\dotnetApp.deps.json
+C:\Users\priya\OneDrive\Desktop\dotnetApp\bin\Debug\net8.0\dotnetApp.runtimeconfig.json
+C:\Users\priya\OneDrive\Desktop\dotnetApp\bin\Debug\net8.0\dotnetApp.dll
+C:\Users\priya\OneDrive\Desktop\dotnetApp\bin\Debug\net8.0\dotnetApp.pdb
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\dotnetApp.dll
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\refint\dotnetApp.dll
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\dotnetApp.pdb
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\dotnetApp.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Desktop\dotnetApp\obj\Debug\net8.0\ref\dotnetApp.dll
